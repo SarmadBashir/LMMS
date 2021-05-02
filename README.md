@@ -29,8 +29,9 @@ $ gdown https://drive.google.com/uc?id=1kuwkTkSBz5Gv9CB_hfaBh1DQyC2ffKq0&export=
 
 ### Download pytorch pretrained BERT (large-cased) model files
 
-This pytorch bert model weights are converted from this original model provided in the paper: [cased_L-24_H-1024_A-16](https://storage.googleapis.com/bert_models/2018_10_18/cased_L-24_H-1024_A-16.zip)
-Manual Link: [pytorch-bert-model](https://drive.google.com/u/0/uc?id=1NQ_3cGw1qWvc7tGwPlRHixzyjRP7lvgd&export=download)
+The pytorch BERT model weights are converted from the original model provided in the paper: [cased_L-24_H-1024_A-16](https://storage.googleapis.com/bert_models/2018_10_18/cased_L-24_H-1024_A-16.zip)
+
+Converted Manual Link: [pytorch-bert-model](https://drive.google.com/u/0/uc?id=1NQ_3cGw1qWvc7tGwPlRHixzyjRP7lvgd&export=download)
 
 Terminal:
 ``` bash
