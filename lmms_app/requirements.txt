@@ -1,0 +1,8 @@
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+numpy==1.19.0
+pandas==1.0.5
+Flask==1.1.2
+nltk==3.5
+#torch==1.5.1
+#pytorch-transformers==1.2.0
+requests==2.24.0
